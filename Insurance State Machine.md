@@ -1,0 +1,2 @@
+# Insurance State Machine
+## Goal
